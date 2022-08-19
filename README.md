@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Alexandra Drobysheva
+
+# I'm a Data Analyst
+
+- 📫 How to reach me: [Telegram](https://t.me/aadrobysheva)
 
 <!--
 **adrobysheva/adrobysheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
