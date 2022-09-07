@@ -18,7 +18,7 @@
 [![codewars](https://www.codewars.com/users/AlexaDr/badges/micro)](https://www.codewars.com/users/AlexaDr)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrobyshevat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrobysheva&theme=solarized_dark)
 
 <!--
 **adrobysheva/adrobysheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
