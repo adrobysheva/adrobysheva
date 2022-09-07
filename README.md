@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Alexandra Drobysheva
-
-# I'm a Data Analyst
+<h1 align="center">Hi there, I'm Alexandra 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data Analyst</h3>
 
 - 📫 How to reach me: [Telegram](https://t.me/aadrobysheva)
 
