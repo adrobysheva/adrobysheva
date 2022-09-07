@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Alexandra 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data Analyst</h3>
+<h2 align="center">I'm a Data Analyst</h2>
 
-- 🔭 I’m currently looking for job
+- 🔭 I’m currently looking for a job
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aadrobysheva)
