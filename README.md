@@ -19,6 +19,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrobysheva&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrobysheva&theme=solarized_dark)
 
 <!--
 **adrobysheva/adrobysheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
